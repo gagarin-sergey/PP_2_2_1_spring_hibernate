@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="604a3dfa-5678-4939-bd2f-d1eca4f3af46" name="spring_hiber@localhost Mapping">
+      <data-sources db="431c69eb-1c8c-4522-909a-3ff72b1721fb" />
+      <scope>
+        <node kind="database" qname="@">
+          <node kind="schema" qname="@" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
